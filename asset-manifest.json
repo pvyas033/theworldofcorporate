@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/theworldofcorporate/static/css/main.445c22cf.css",
+    "main.js": "/theworldofcorporate/static/js/main.9ba911fb.js",
+    "static/js/787.0606fabb.chunk.js": "/theworldofcorporate/static/js/787.0606fabb.chunk.js",
+    "static/media/logo.svg": "/theworldofcorporate/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/theworldofcorporate/index.html",
+    "main.445c22cf.css.map": "/theworldofcorporate/static/css/main.445c22cf.css.map",
+    "main.9ba911fb.js.map": "/theworldofcorporate/static/js/main.9ba911fb.js.map",
+    "787.0606fabb.chunk.js.map": "/theworldofcorporate/static/js/787.0606fabb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.445c22cf.css",
+    "static/js/main.9ba911fb.js"
+  ]
+}
